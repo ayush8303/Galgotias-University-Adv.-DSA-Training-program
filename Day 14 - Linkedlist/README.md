@@ -17,3 +17,7 @@
 #### 5. [ Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/)
 
 ---
+
+#### 6. [ Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/)
+
+---
