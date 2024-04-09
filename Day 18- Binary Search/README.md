@@ -81,3 +81,11 @@ Constraints =
 #### 8. [ Logs ](https://atcoder.jp/contests/abc174/tasks/abc174_e)
 
 ---
+
+#### 9. [ Pond ](https://atcoder.jp/contests/abc203/tasks/abc203_d)
+
+---
+
+#### 10. [ Maximize the Minimum Importance ](https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-149/problems)
+
+---
