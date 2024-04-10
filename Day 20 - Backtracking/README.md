@@ -5,3 +5,5 @@
 #### 3. [ subsets ](https://leetcode.com/problems/subsets/)
 
 #### 4. [ N - queen ](https://practice.geeksforgeeks.org/problems/n-queen-problem0315/1)
+
+#### 5. [ Sudoku Solver ](https://leetcode.com/problems/sudoku-solver/)
