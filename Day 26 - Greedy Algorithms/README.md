@@ -5,3 +5,5 @@
 #### 3. [ DEFKIN - Defense of a Kingdom ](https://www.spoj.com/problems/DEFKIN/)
 
 #### 4. [ Make It Equal ](https://codeforces.com/problemset/problem/1065/C)
+
+#### 4. [ Long Inversions ](https://codeforces.com/contest/1955/problem/E)
