@@ -96,7 +96,7 @@ ABBA
 
 ABCCBA
 
-ABCDDBA
+ABCDDCBA
 
 #### 10. Pattern 2
 
