@@ -8,7 +8,7 @@ void solve()
   cin >> n >> s;
   for (int k = n; k > 0; k--)
   {
-    vector<char> t(n), end(n + 1);
+    vector<int> t(n), end(n + 1);
     for (int i = 0; i < n; i++)
     {
       t[i] = s[i] - '0';
