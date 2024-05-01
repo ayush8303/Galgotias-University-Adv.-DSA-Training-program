@@ -38,8 +38,8 @@ In this case only pair (l, r) suits us - (2,3), because 2+3=5 , 5 is prime.
 
 ---
 
-#### 3. [ Largest Coprime Divisor ](https://www.interviewbit.com/problems/largest-coprime-divisor/)
+#### 1. [ Largest Coprime Divisor ](https://www.interviewbit.com/problems/largest-coprime-divisor/)
 
 ---
 
-#### 4. [ Alice and Candies ](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lola-and-candies-36b57b1b/)
+#### 2. [ GCD2 - GCD2 ](https://www.spoj.com/problems/GCD2/)
