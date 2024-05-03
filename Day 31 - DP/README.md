@@ -4,12 +4,14 @@ Given a ladder of size N, and an integer K, write a program to compute numbers
 ways to climb the ladder if you can take a jump of atmost k at every step.
 
 Input:
-N = 1
+
+N = 1, k = 5
 
 Output: 1
 
 Input:
-N = 0
+
+N = 0, k = 3
 
 Output: 1
 
@@ -20,7 +22,7 @@ Output: 1
 Given a rod of length N and array prices of length n denoting the cost of pieces of the rod of length 1 to N. find the maximum amount that can be made if the rod is cut up optimally.
 
 Input:
-N = 4, prices[] = [1, 1, 1, 4]
+N = 4, prices[] = [1, 1, 1, 6]
 
 Output: 4
 
