@@ -21,3 +21,7 @@
 #### 6. [ Smallest Range Covering Elements from K Lists ](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/)
 
 ---
+
+#### 7. [ Longest Subarray of 1's After Deleting One Element ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+---
