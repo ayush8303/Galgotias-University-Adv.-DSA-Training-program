@@ -1,4 +1,4 @@
-## 1-D Dynamic Problems Problems
+## 1-D Dynamic Programming Problems
 
 #### 1. Another Count Bits Problem
 
