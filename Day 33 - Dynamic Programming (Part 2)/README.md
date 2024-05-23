@@ -70,3 +70,7 @@ N = 3
 Output: 10 = 2 + 5 + 3
 
 ---
+
+#### 5. [ Modulo Sum ](https://codeforces.com/problemset/problem/577/B)
+
+---
