@@ -32,7 +32,7 @@ Sample output : 1 ({7,4})
 
 ---
 
-#### 2. [ Vacation ](https://atcoder.jp/contests/dp/tasks/dp_cs)
+#### 2. [ Vacation ](https://atcoder.jp/contests/dp/tasks/dp_c)
 
 ---
 
