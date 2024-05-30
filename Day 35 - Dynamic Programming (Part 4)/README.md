@@ -4,7 +4,7 @@
 
 ---
 
-#### 2. [ Consecutive Subsequence ](hhttps://codeforces.com/problemset/problem/977/F)
+#### 2. [ Consecutive Subsequence ](https://codeforces.com/problemset/problem/977/F)
 
 ---
 
