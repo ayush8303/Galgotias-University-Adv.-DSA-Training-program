@@ -25,7 +25,7 @@ int main()
   memset(memo, -1, sizeof(memo));
   cout << orderedSet(n) << endl;
 
-  // bottom up
+  // bottom up -> O(n)
   int sum = 0;
   int f[n + 1];
   f[0] = 1;
@@ -36,7 +36,7 @@ int main()
     sum += f[i];
   }
   cout << f[n] << endl;
-  cout << pow(2, n - 1) << endl;
+  cout << pow(2, n - 1) << endl; // O(1)
 
   return 0;
 }
